@@ -2,13 +2,13 @@
 
 <img src="https://avatars.githubusercontent.com/Alissonnascimento74?size=400" width="180" style="border-radius: 50%; border: 3px solid #FFD600;" alt="Alisson Nascimento" />
 
-# Hi, I'm Alisson 👋
+# Oi, sou o Alisson 👋
 
 ### iOS Developer · Swift / SwiftUI · São Paulo, Brasil
 
 *Transformando ideias em apps que cabem no bolso das pessoas.*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-02041A?style=for-the-badge&logo=safari&logoColor=FFD600)](https://alisson-nascimento-dev.vercel.app)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-02041A?style=for-the-badge&logo=safari&logoColor=FFD600)](https://alisson-nascimento-dev.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alisson-nascimento-811a42272)
 [![Email](https://img.shields.io/badge/Email-FFD600?style=for-the-badge&logo=gmail&logoColor=02041A)](mailto:nascimento.dev.swift@gmail.com)
 
@@ -16,26 +16,26 @@
 
 ---
 
-## 🍎 About me
+## 🍎 Sobre mim
 
-I'm a Brazilian iOS developer in formation, focused on building apps that respect the Apple ecosystem — clean code, attention to detail, and design that feels native.
+Sou desenvolvedor iOS em formação, focado em construir apps que respeitam o ecossistema Apple — código limpo, atenção a detalhes e design que parece nativo da plataforma.
 
-- 🎓 Studying **Software Engineering** at UniFamma (2024–2028)
-- 📱 Building real iOS apps with **Swift** and **SwiftUI**
-- 🎯 Looking for my **first opportunity** as an iOS Developer (remote BR or international)
-- ☕ Learning by building — not just by reading
+- 🎓 Engenharia de Software na **UniFamma** (2024–2028)
+- 📱 Construindo apps iOS com **Swift** e **SwiftUI**
+- 🎯 Em busca da minha **primeira oportunidade** como dev iOS (remoto Brasil)
+- ☕ Aprendo construindo, não apenas lendo
 
 ---
 
-## 🚧 Currently building
+## 🚧 Construindo agora
 
-> **FocusFlow** — A SwiftUI task manager with built-in Pomodoro sessions, local persistence with SwiftData, and a clean MVVM architecture.
+> **FocusFlow** — Task manager em SwiftUI com sessões Pomodoro integradas, persistência local com SwiftData e arquitetura MVVM limpa.
 >
-> *Coming June 2026 to the App Store.*
+> *Chegando em junho de 2026 na App Store.*
 
 ---
 
-## ⭐ Featured project
+## ⭐ Projeto em destaque
 
 <table>
   <tr>
@@ -44,10 +44,10 @@ I'm a Brazilian iOS developer in formation, focused on building apps that respec
     </td>
     <td>
       <h3>🍅 Pomodoro</h3>
-      <p>A clean and minimal Pomodoro timer built with SwiftUI. Focus / Break cycles, animated progress ring, session counter and dark UI with gold and purple accents.</p>
+      <p>Timer Pomodoro minimalista e elegante construído em SwiftUI. Ciclos de Focus e Break, anel de progresso animado, contador de sessões e UI escura com detalhes em dourado e roxo.</p>
       <p>
         <a href="https://github.com/Alissonnascimento74/Pomodoro-ios">
-          <img src="https://img.shields.io/badge/Repo-02041A?style=flat-square&logo=github&logoColor=FFD600" />
+          <img src="https://img.shields.io/badge/Repositório-02041A?style=flat-square&logo=github&logoColor=FFD600" />
         </a>
         <img src="https://img.shields.io/badge/Swift-5-FA7343?style=flat-square&logo=swift&logoColor=white" />
         <img src="https://img.shields.io/badge/SwiftUI-iOS_17-007AFF?style=flat-square&logo=apple&logoColor=white" />
@@ -58,7 +58,7 @@ I'm a Brazilian iOS developer in formation, focused on building apps that respec
 
 ---
 
-## 🛠 Tech stack
+## 🛠 Stack técnica
 
 <p>
   <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
@@ -71,39 +71,39 @@ I'm a Brazilian iOS developer in formation, focused on building apps that respec
 
 ---
 
-## 📚 Currently learning
+## 📚 Estudando agora
 
-- **SwiftData** — persistence layer for iOS 17+
-- **MVVM with @Observable** — modern SwiftUI architecture
-- **Swift Charts** — native data visualization (coming in project 3)
-- **Apple Human Interface Guidelines** — building apps that feel like Apple's own
+- **SwiftData** — camada de persistência pra iOS 17+
+- **MVVM com `@Observable`** — arquitetura moderna em SwiftUI
+- **Swift Charts** — visualização de dados nativa (vem no projeto 3)
+- **Apple Human Interface Guidelines** — construir apps que parecem da própria Apple
 
 ---
 
-## 📈 GitHub activity
+## 📈 Atividade no GitHub
 
 <div align="center">
 
-![Alisson's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alissonnascimento74&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=02041A&title_color=FFD600&icon_color=9933E6&text_color=FFFFFF)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Alissonnascimento74&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=02041A&title_color=FFD600&icon_color=9933E6&text_color=FFFFFF&locale=pt-br)
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alissonnascimento74&layout=compact&theme=midnight-purple&hide_border=true&bg_color=02041A&title_color=FFD600&text_color=FFFFFF)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Alissonnascimento74&layout=compact&theme=midnight-purple&hide_border=true&bg_color=02041A&title_color=FFD600&text_color=FFFFFF&locale=pt-br)
 
 </div>
 
 ---
 
-## 💬 Let's talk
+## 💬 Vamos conversar
 
-I'm open to opportunities, mentorship, and dev conversations.
+Estou aberto a oportunidades, mentorias e conversas sobre desenvolvimento.
 
 - 💼 **LinkedIn:** [alisson-nascimento](https://www.linkedin.com/in/alisson-nascimento-811a42272)
-- 🌐 **Portfolio:** [alisson-nascimento-dev.vercel.app](https://alisson-nascimento-dev.vercel.app)
+- 🌐 **Portfólio:** [alisson-nascimento-dev.vercel.app](https://alisson-nascimento-dev.vercel.app)
 - 📧 **Email:** nascimento.dev.swift@gmail.com
 
 <div align="center">
 
 ---
 
-*Built one Pomodoro at a time.* 🍅
+*Construído um Pomodoro de cada vez.* 🍅
 
 </div>
