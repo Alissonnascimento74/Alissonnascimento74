@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/Alissonnascimento74?size=140" width="140" style="border-radius: 50%;" alt="Alisson Nascimento" />
+<img src="https://avatars.githubusercontent.com/Alissonnascimento74?size=400" width="180" style="border-radius: 50%; border: 3px solid #FFD600;" alt="Alisson Nascimento" />
 
 # Hi, I'm Alisson 👋
 
