@@ -80,18 +80,6 @@ Sou desenvolvedor iOS em formação, focado em construir apps que respeitam o ec
 
 ---
 
-## 📈 Atividade no GitHub
-
-<div align="center">
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Alissonnascimento74&show_icons=true&hide_border=true&bg_color=02041A&title_color=FFD600&icon_color=9933E6&text_color=FFFFFF&locale=pt-br)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Alissonnascimento74&layout=compact&hide_border=true&bg_color=02041A&title_color=FFD600&text_color=FFFFFF&locale=pt-br)
-
-</div>
-
----
-
 ## 💬 Vamos conversar
 
 Estou aberto a oportunidades, mentorias e conversas sobre desenvolvimento.
