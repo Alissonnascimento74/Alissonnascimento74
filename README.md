@@ -31,7 +31,7 @@ Sou desenvolvedor iOS em formação, focado em construir apps que respeitam o ec
 
 > **FocusFlow** — Task manager em SwiftUI com sessões Pomodoro integradas, persistência local com SwiftData e arquitetura MVVM limpa.
 >
-> *Chegando em junho de 2026 na App Store.*
+> *Em construção — código aberto no GitHub em junho de 2026.*
 
 ---
 
@@ -84,9 +84,9 @@ Sou desenvolvedor iOS em formação, focado em construir apps que respeitam o ec
 
 <div align="center">
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Alissonnascimento74&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=02041A&title_color=FFD600&icon_color=9933E6&text_color=FFFFFF&locale=pt-br)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Alissonnascimento74&show_icons=true&hide_border=true&bg_color=02041A&title_color=FFD600&icon_color=9933E6&text_color=FFFFFF&locale=pt-br)
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Alissonnascimento74&layout=compact&theme=midnight-purple&hide_border=true&bg_color=02041A&title_color=FFD600&text_color=FFFFFF&locale=pt-br)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Alissonnascimento74&layout=compact&hide_border=true&bg_color=02041A&title_color=FFD600&text_color=FFFFFF&locale=pt-br)
 
 </div>
 
